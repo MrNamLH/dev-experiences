@@ -10,6 +10,7 @@
   ☆ Nén file với gzip
   ☆ Server-side-rendering
   ☆ CDN(Content Delivery Network)
+  ☆ Load async javascript
   
   Và tất nhiên mình không giới thiệu một cách detail. Mình chỉ nói để các bạn hiểu những kĩ thuật đó là gì, tại sao
   phải sử dụng nó, sử dụng khi nào. Chứ trên google hướng dẫn rất cụ thể rồi mình không nói lại.
@@ -22,3 +23,4 @@
 ☆ gzip
 ☆ Server-side-rendering(SSR)
 ☆ Sử dụng CDN(Content Delivery Network)
+☆ Load async javascript
